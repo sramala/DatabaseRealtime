@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DatabaseRealtime</string>
+    <string name="tracks">Tracks</string>
+    <string name="_1">1</string>
+    <string name="addtrack">AddTrack</string>
+
+    <array name="Genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Pop</item>
+        <item>Folk</item>
+    </array>
+</resources>
